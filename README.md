@@ -1,7 +1,5 @@
 # *DogMe* by Software Benders
 
-![DogMe Logo](/img/dogme.png)
-
 *Woof woof!* DogMe is a presentation evaluation app that allows students to give each other feedback with scoring on four categories: organization, visuals, content, and delivery. It also allows instructors to monitor everything that goes on.
 
 Made by Software Benders ([Jay Collins](https://github.com/JTCollins33), [Isaiah Green](https://github.com/isaiah5159), [Ryoma Kawakami](https://github.com/ryomakawakami), [Goodman Li](https://github.com/Gli9249))
